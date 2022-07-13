@@ -167,18 +167,7 @@
             background: url(/img/search.png) 5px 8px no-repeat;
         }
         
-.content-gallery{
-    width: 320px;
-    height: auto;
-    float: left;
-    margin: 0 3px 8px 3px;
-    padding: 1px;
-    padding-bottom: 16px;
-    border: 1px solid #101010;
-    background: #191611;
-    border-radius: 0;
-    position: relative;
-}
+
 
 h3 {
     position: absolute;

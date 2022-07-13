@@ -21,7 +21,7 @@
 }
 
 @media(min-width:1340px){
-    .header__banner-container{
+    .header__banner-container,.about__img{
         width: 1312px;
     }
 }
